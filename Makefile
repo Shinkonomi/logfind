@@ -1,4 +1,4 @@
-PROGRAM=logfind
+PROGRAM=bin/logfind
 CFLAGS=-Wall -g -O3
 OBJECTS=src/*.c
 CC=gcc
