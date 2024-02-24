@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <stdint.h>
 
-#define LOGFIND_PATH "/home/shinkonomi/.logfind"
+#define LOGFIND_PATH "/home/user"
 #define FILESTRING_SIZE 262144
 #define MAX_LOG_FILES 128
 
